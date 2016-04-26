@@ -1,0 +1,10 @@
+{
+  "id": "track-outline-comparison",
+  "steps": [
+    "steps/introduction.md",
+    "steps/load_data.py",
+    "steps/analyze_lengths_and_angles.py",
+    "steps/analyze_bounding_box.py",
+    "steps/cumulative_distribution.py"
+  ]
+}
